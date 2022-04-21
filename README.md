@@ -1,7 +1,7 @@
 # guilhermedora
 ### Hi everyone 👋, my name is Gui
 #### I'm a fullstack developer in evolution.
-![I'm a fullstack developer in evolution.](https://www.deezer-blog.com/assets/sites/8/2021/11/bandas-de-rock-nacional-confira-os-grandes-nomes-e-seus-maiores-hits.jpg)
+![I'm a fullstack developer in evolution.](https://64.media.tumblr.com/eeed5de8c485d326f2218c31743c52a6/6530495f168d34a1-0b/s540x810/282a24388b5861d794f050b1a0f409eedb83c8d7.jpg)
 
 I'm a technology fanatic and I like calm environments and heavy music.
 
