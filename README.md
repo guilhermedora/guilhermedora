@@ -20,7 +20,7 @@ SKILLS
 FINDE
 <br>
 
-[<img src='https://user-images.githubusercontent.com/103836216/164468234-a1144764-c1d4-4c8b-9ec2-4f3374d9afdd.png' alt='instagram' height='40'>](https://www.instagram.com/guilhermedora/)  [<img src='https://user-images.githubusercontent.com/103836216/164467803-2f9ccfb4-7b33-42ba-a288-37207ca63981.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/guilherme-de-oliveira-94708a42/)  [<img src='https://user-images.githubusercontent.com/103836216/164468596-413559c0-3fdc-41f6-8e52-cfe00205875d.png' alt='twitter' height='40'>](https://twitter.com/GuilhermDora)
+[<img src='https://user-images.githubusercontent.com/103836216/164467803-2f9ccfb4-7b33-42ba-a288-37207ca63981.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/guilherme-de-oliveira-94708a42/)  [<img src='https://user-images.githubusercontent.com/103836216/164468234-a1144764-c1d4-4c8b-9ec2-4f3374d9afdd.png' alt='instagram' height='40'>](https://www.instagram.com/guilhermedora/)  [<img src='https://user-images.githubusercontent.com/103836216/164468596-413559c0-3fdc-41f6-8e52-cfe00205875d.png' alt='twitter' height='40'>](https://twitter.com/GuilhermDora)
 
 CONTACT
 <br>
