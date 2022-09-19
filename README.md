@@ -13,7 +13,7 @@ SKILLS
 <img align="center" alt="Gui-js" height="40" src="https://user-images.githubusercontent.com/103836216/164469558-3b45ab8d-2ab0-40f0-887c-2aa22c84c771.png" />
 <img align="center" alt="Gui-vsc" height="40" src="https://user-images.githubusercontent.com/103836216/164471099-ef2d9cde-5791-4e92-94eb-4369289a3b9d.png" />  
 <img align="center" alt="Gui-k8s" height="40" src="https://user-images.githubusercontent.com/103836216/164469858-3e68177c-671b-4962-bb88-17e734734c26.png" />
-<img align="center" alt="Gui-linux" height="40" src="https://user-images.githubusercontent.com/103836216/164470406-141f2036-2330-41d2-bc84-3ccdc25479b7.png" />
+<img align="center" alt="Gui-linux" height="40" src="https://www.flaticon.com/free-icon/react_1183672?term=react&page=1&position=2&page=1&position=2&related_id=1183672&origin=search" />
 <img align="center" alt="Gui-win" height="40" src="https://user-images.githubusercontent.com/103836216/164470554-3a93df32-476b-46ad-b3b9-bf826c778a41.png" />
 </div>
 <br>
