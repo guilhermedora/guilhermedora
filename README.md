@@ -18,6 +18,7 @@ CURRENT SKILLS
 <img align="center" alt="Gui-win" height="40" src="https://user-images.githubusercontent.com/103836216/164470554-3a93df32-476b-46ad-b3b9-bf826c778a41.png" />
 </div>
 <br>
+
 MEET ME
 <br>
 
@@ -31,3 +32,9 @@ guilhermevitor<span>@live.com
 <img align="center" alt="Gui-gmail" height="40" src="https://user-images.githubusercontent.com/103836216/164476140-fff83a8b-cac3-4edf-ab0a-52125d1f9bc5.png" />
 gvitoroliveira<span>@gmail.com
 <br>
+  
+<div align="center">
+  <a href="https://github.com/guilhermedora">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ag40459&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ag40459&layout=compact&langs_count=7&theme=dark"/>
+</div>
