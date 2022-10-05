@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f37d7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f37d7&height=100&section=header"/>
 <h1>Hi everyone 👋, my name is Gui</h1>
 <div style="display: inline-block;"> 
 I'm a mechatronic engineer and frontend developer.
@@ -39,4 +39,4 @@ gvitoroliveira<span>@gmail.com
 </div>
 <br>
 <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f37d7&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f37d7&height=100&section=footer"/>
