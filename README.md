@@ -15,16 +15,18 @@ Currently working on envolve my skills.
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/103836216/164468896-81a36c76-ab2e-4a21-a3b1-be2cca843e68.png" alt="HTML5" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/103836216/191022005-9c366454-a2bf-4477-996b-8324b06a5a52.png" alt="Node.js" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/103836216/164469558-3b45ab8d-2ab0-40f0-887c-2aa22c84c771.png" alt="JavaScript" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/103836216/164469558-3b45ab8d-2ab0-40f0-887c-2aa22c84c771.png" alt="JavaScript" height="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/103836216/194149767-f2978ad4-0c76-41db-8ca8-7ffd897d66cb.png" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/103836216/205490624-7e2d566c-fd21-4d64-ab7a-fb3253ee5775.png" alt="MongoDB" height="50" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/103836216/164471099-ef2d9cde-5791-4e92-94eb-4369289a3b9d.png" alt="Vscode" height="50" /></a>   
-<a href="https://www.microsoft.com/pt-br/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/103836216/164470554-3a93df32-476b-46ad-b3b9-bf826c778a41.png" alt="Vscode" height="50" /></a>  
+<a href="https://www.android.com/intl/pt-BR_br/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/103836216/205490232-3534480f-cb98-4c3f-b25f-c74d72e1da56.png" alt="Android" height="50" /></a>
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/103836216/205490888-6d16c2b2-059d-4c5b-9cc3-2d9905d9cc21.png" alt="Mui" height="50" /></a>
 </div>
 <h3>FUTURE SKILLS</h3>
 <div align="left">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>   
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 </div>
 <h3>MEET ME</h3>
